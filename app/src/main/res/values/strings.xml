@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TaskFive</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="release_year">Release Year</string>
+    <string name="image_url">Image Url</string>
+    <string name="add_game">Add Game</string>
+    <string name="add">Add</string>
+    <string name="seed">Seed</string>
+    <string name="placeholder">PlaceHolder</string>
+    <string name="relase_date_2012">Relase date: 2012</string>
+    <string name="lorem_ipsum_dolorlorem_ipsum_dolorlorem_ipsum_dolorlorem_ipsum_dolorlorem_ipsum_dolorlorem_ipsum_dolorlorem_ipsum_dolorlorem_ipsum_dolorlorem_ipsum_dolor">Lorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolorLorem ipsum dolor</string>
+    <string name="image">Image</string>
+    <string name="todo">TODO</string>
+</resources>
